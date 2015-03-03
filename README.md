@@ -1,0 +1,2 @@
+# django-oblig
+Skoleprosjekt.
